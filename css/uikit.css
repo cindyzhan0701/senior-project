@@ -2194,7 +2194,7 @@ select.uk-form-width-xsmall {
  * Secondary
  */
 .uk-section-secondary {
-  background: #222;
+  background: rgb(139, 139, 139);;
 }
 /* Overlap modifier
  ========================================================================== */
@@ -2826,7 +2826,7 @@ select.uk-form-width-xsmall {
  * Secondary
  */
 .uk-card-secondary {
-  background: #222;
+  background: rgb(139, 139, 139);
   color: #fff;
   box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
 }
